@@ -1,0 +1,15 @@
+uvicorn
+fastapi
+pydantic==1.10
+pydantic[dotenv]==1.10
+pydantic[email]==1.10
+openai==1.43.0
+chromadb==0.5.5
+chromadb-client==0.5.6.dev0
+loguru
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-core==0.2.38
+langchain-openai==0.1.23
+langchain-text-splitters==0.2.4
+langsmith==0.1.111
